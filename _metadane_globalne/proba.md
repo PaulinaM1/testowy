@@ -12,7 +12,7 @@ en_graph_title: At -risk of poverty rate according to international poverty line
 pl_nazwa_wskaznika: <b> 1.1.1 Stopa ubóstwa według międzynarodowej granicy ubóstwa</b>
 pl_cel: Cel 1. Koniec z ubóstwem
 pl_zadanie: >-
-  1.1 Do 2030 roku wyeliminować skrajne ubóstwo na całym świecie aktualnie
+  1.1 Do 2030 akssnhdcoqafhiehoieqwhfqh roku wyeliminować skrajne ubóstwo na całym świecie aktualnie
   mierzone jako utrzymywanie się za mniej niż $1,25 dziennie
 pl_definicja: >-
   Odsetek osób w gospodarstwach domowych, których dzienny dochód jest niższy od
