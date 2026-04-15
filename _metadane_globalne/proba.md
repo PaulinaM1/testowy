@@ -1,6 +1,6 @@
 ---
-en_data_aktualizacji_metadanych: 25-06-2024
-en_data_aktualizacji_danych: 05-11-2024
+en_data_aktualizacji_metadanych: 25-06-2025
+en_data_aktualizacji_danych: 05-11-2025
 pl_data_aktualizacji_metadanych: 25-06-2024
 pl_data_aktualizacji_danych: 05-11-2024
 translation_id: 1-1-1
