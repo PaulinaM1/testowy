@@ -1,5 +1,5 @@
 ---
 title: Globalne Statystyki GUS
-permalink: /statistics_glob/gwergwrgrwgertahgter
+permalink: /sta
 layout: frontpage
 ---
