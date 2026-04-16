@@ -1,5 +1,5 @@
 ---
-layout: page_aboutsdg
+layout: page_aboutsdgaaaaaaaaaaaaaaaaaaaaaaaaa
 title: O AGENDZIE 2030 i SDGs
 permalink: /o_sdg/
 ---
